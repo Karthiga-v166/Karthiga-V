@@ -1,0 +1,6 @@
+{
+  "name": "Snakes and Ladders",
+  "description": "Classic 10x10 Snakes and Ladders board game for 2 players with step-by-step token movement, animated dice, visual snakes and ladders, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
